@@ -1,4 +1,4 @@
-# Machine-Learning-2021-12
+# JIPY Machine-Learning-2021-12
 
 ## RPA를 위한 인공지능 과정
 
